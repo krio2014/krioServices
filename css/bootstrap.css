@@ -5830,11 +5830,14 @@ button.close {
 
 .carousel {
   position: relative;
+    width:640px;
+  height:360px;
 }
 
 .carousel-inner {
   position: relative;
   width: 100%;
+
   overflow: hidden;
 }
 
